@@ -6,6 +6,9 @@ import 'views/home_page.dart';
 
 void main() => runApp(MyApp());
 
+//Reference
+//https://medium.com/flutter-community/flutter-essential-what-you-need-to-know-567ad25dcd8f
+
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
